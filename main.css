@@ -1,9 +1,26 @@
-.bottomOne {
+.headColor {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px
+}
+
+ul {
+    list-style-type: square;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    width: 60px;
+    background-color: lightgray;
+}
+
+
+
+.footer {
     text-align: center;
     bottom: 0;
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    color: blue;
+    position: center;
 }
 
