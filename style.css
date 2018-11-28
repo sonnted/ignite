@@ -1,3 +1,6 @@
-.bottom1 {
-    text-align:center;
+.bottomOne {
+    text-align: center;
+    bottom: 0;
+    position: absolute;
 }
+
