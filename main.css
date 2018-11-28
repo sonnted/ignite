@@ -4,21 +4,12 @@
     font-size: 50px
 }
 
-ul {
-    list-style-type: square;
-    margin: 0;
-    padding: 0;
-}
-
-li a {
-    display: block;
-    width: 60px;
-    background-color: lightgray;
-}
-
 .topnav { 
   overflow: hidden;
   background-color: darkgray;
+  border: 1px solid whitesmoke;
+  display: flex;
+  justify-content: space-around;
 }
 
 .topnav a {
@@ -26,7 +17,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 16px;  
 }
 
 .topnav a:hover {
