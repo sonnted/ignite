@@ -16,11 +16,27 @@ li a {
     background-color: lightgray;
 }
 
+.topnav { 
+  overflow: hidden;
+  background-color: darkgray;
+}
 
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+.topnav a:hover {
+  background-color: whitesmoke;
+  color: dimgray;
+}
+  
 
 .footer {
     text-align: center;
     bottom: 0;
     position: center;
 }
-
