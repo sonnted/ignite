@@ -6,6 +6,9 @@
   body {
         background-color: dimgray;
     }
+a {
+    color:whiteSmoke;
+}
 a:link {
     color: whitesmoke;
 }
