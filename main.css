@@ -6,6 +6,14 @@
   body {
         background-color: dimgray;
     }
+a:link {
+    color: whitesmoke;
+}
+
+a:visited {
+    color: darkgray;
+}
+    
 
 .topnav { 
   overflow: hidden;
